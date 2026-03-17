@@ -88,7 +88,7 @@
   let charCount = $derived(new Blob([input]).size);
 </script>
 
-<TrustBar sourceUrl="https://github.com/yourusername/qr-generator" />
+<TrustBar sourceUrl="https://github.com/Griffin2/localqr" />
 
 <div class="page-shell">
   <ToolHeader
